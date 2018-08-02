@@ -43,11 +43,9 @@ hello("my info is useful")
 
 ---
 
-@transition[none]
-
-@snap[north]
 ### 左一張圖，右一段字
-@snapend
+
+
 
 @snap[east]
 ![Git](./assets/imgs/git.png)
