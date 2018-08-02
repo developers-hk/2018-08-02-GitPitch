@@ -59,11 +59,17 @@ hello("my info is useful")
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 ### 唔同既底色
 
+@fa[arrow-down]
+
++++
+@title[GFM]
+
+### 隱藏 Content
 
 ---
 ### 總結
 
-* 同今時今日static site generator 興起原因一樣， 因為content 及styling 的仔細分工。
+* 同今時今日static site generator 興起原因一樣， 因為content 及styling 的仔細分工，好多時做content既人同做styling既人唔係同一個
 * GitPitch 正正係分開左 content(markdown) 同 styling(css)。
 
 ---
