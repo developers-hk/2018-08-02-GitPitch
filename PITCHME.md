@@ -55,3 +55,17 @@ hello("my info is useful")
 我的資訊很有用是香港第一個純技術討論的廣東話聚會，每月第一個星期四，於油麻地彌敦道557號Work Together 18樓，歡迎各位programmer及其他IT從業者、Accelerate現屆學生或校友參與！
 @snapend
   
+
+@snap[north]
+
+@snapend
+
+
+@snap[south]
+
+@snapend
+
+  
+@snap[midpoint]
+
+@snapend
