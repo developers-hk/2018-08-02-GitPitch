@@ -1,4 +1,4 @@
-### Git Pitch - Powerpoint 終結者？
+### Git Pitch - Powerpoint 終結者
 
 ##### 我的資訊很有用
 ###### 2018-08-02
