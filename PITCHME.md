@@ -36,6 +36,12 @@ hello("world")
 hello("my info is useful")
 ```
 
+```javascript
+
+function hello(name){
+    console.log("Hello "+name);
+}
+
 ---
 ### 加張圖
 
