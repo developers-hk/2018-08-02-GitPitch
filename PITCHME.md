@@ -25,5 +25,16 @@
 ## 講多無謂，直接示範喇!
 
 
+---
+### 寫段Code 
+
+```python
+def hello(name):
+    print("Hello " +name)
+
+hello("world")
+hello("my info is useful")
+```
+
 
 
