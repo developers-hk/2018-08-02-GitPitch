@@ -36,5 +36,9 @@ hello("world")
 hello("my info is useful")
 ```
 
+---
+### 加張圖
+
+![我的資訊很有用](./img1.png)
 
 
