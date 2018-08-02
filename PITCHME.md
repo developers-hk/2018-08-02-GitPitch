@@ -28,6 +28,8 @@
 ---
 ### 寫段Code 
 
+Python Hello World
+
 ```python
 def hello(name):
     print("Hello " +name)
@@ -36,11 +38,14 @@ hello("world")
 hello("my info is useful")
 ```
 
+Javascript Hello World 
+
 ```javascript
 
 function hello(name){
     console.log("Hello "+name);
 }
+```
 
 ---
 ### 加張圖
