@@ -44,7 +44,7 @@ hello("my info is useful")
 ---
 
 @snap[north]
-### 左一段字，右一張圖
+@css[strong](左一段字，右一張圖)
 @snapend
 
 
@@ -57,6 +57,8 @@ hello("my info is useful")
 @snapend
   
 ---?color=linear-gradient(to left, #56ccf2, #2f80ed)
+### 唔同既底色
+
 
 
 
