@@ -39,7 +39,7 @@ hello("my info is useful")
 ---
 ### 加張圖
 
-![我的資訊很有用](./assets/img1.png)
+![我的資訊很有用](./assets/imgs/img1.png)
 
 ---
 ### 左一張圖，右一段字
@@ -48,13 +48,11 @@ hello("my info is useful")
 
 
 @snap[east]
-![我的資訊很有用](./img1.png)
+![Git](./assets/imgs/git.png)
 @snapend
 
 @snap[west]
-我的資訊很有用是香港第一個純技術討論的廣東話聚會，
-每月第一個星期四，於油麻地彌敦道557號Work Together 
-18樓，歡迎各位programmer及其他IT從業者、Accelerate現屆學生或校友參與！
+GitPitch
 @snapend
   
 
