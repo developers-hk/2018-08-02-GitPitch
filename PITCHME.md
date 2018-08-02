@@ -42,10 +42,12 @@ hello("my info is useful")
 ![我的資訊很有用](./assets/imgs/img1.png)
 
 ---
-### 左一張圖，右一段字
+
 @transition[none]
 
-
+@snap[north]
+### 左一張圖，右一段字
+@snapend
 
 @snap[east]
 ![Git](./assets/imgs/git.png)
