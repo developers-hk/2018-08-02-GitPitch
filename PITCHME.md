@@ -43,7 +43,9 @@ hello("my info is useful")
 
 ---
 
+@snap[north]
 ### 左一張圖，右一段字
+@snapend
 
 
 
