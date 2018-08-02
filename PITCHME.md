@@ -44,9 +44,8 @@ hello("my info is useful")
 ---
 
 @snap[north]
-### 左一張圖，右一段字
+### 左一段字，右一張圖
 @snapend
-
 
 
 @snap[east]
@@ -54,7 +53,7 @@ hello("my info is useful")
 @snapend
 
 @snap[west]
-GitPitch
+@css[red](GitPitch)
 @snapend
   
 
